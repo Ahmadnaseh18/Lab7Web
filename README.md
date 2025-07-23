@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab7Web
 ## **PRAKTIKUM CodeIgniter4 {Ismu Nurkhasanah (312310042-TI.23.C1)}**
 
@@ -340,3 +341,6 @@ Pada praktikum 11 ini, kita membuat repo baru dengan nama [Lab8VueJs](https://gi
 8. File `style.css`
 ![image](https://github.com/user-attachments/assets/d552a5f0-55f9-41ee-8a16-2320dacf0db9)
 
+=======
+# Lab7Web
+>>>>>>> f68a8c52528c73ae0e1b21e8aec5dc4a3e5d98b9
