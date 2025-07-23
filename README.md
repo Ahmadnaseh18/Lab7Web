@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Lab7Web
-## **PRAKTIKUM CodeIgniter4 {Ismu Nurkhasanah (312310042-TI.23.C1)}**
+## **PRAKTIKUM CodeIgniter4 {Ahmad Naseh Mujamal (312310005-TI.23.C1)}**
 
 Pada praktikum CodeIgniter4 ini dibagi menjadi ke beberapa modul, berikut perubahan yang dilakukan pada setiap modul praktikum:
 
