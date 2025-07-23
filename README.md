@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lab7Web
 ## **PRAKTIKUM CodeIgniter4 {Ahmad Naseh Mujamal (312310005-TI.23.C1)}**
 
@@ -6,37 +5,25 @@ Pada praktikum CodeIgniter4 ini dibagi menjadi ke beberapa modul, berikut peruba
 
 
 ## **Modul Praktikum 1_PHP Framework (Code Igniter)**
+# Lab7Web
+## PRAKTIKUM CodeIgniter4 {Ahmad Naseh Mujamal (312310005-TI.23.C1)}
+Pada praktikum CodeIgniter4 ini dibagi menjadi ke beberapa modul, berikut perubahan yang dilakukan pada setiap modul praktikum:
 1. Pada gambar tersebut, telah ditambahkan beberapa routes yang akan digunakan
-![Screenshot 2025-05-18 111634](https://github.com/user-attachments/assets/901dcd44-bbda-44bb-8baf-066bd0651129)
-
+   <img width="917" height="511" alt="image" src="https://github.com/user-attachments/assets/43848193-aa9a-45fa-8fa7-92c5e2081e2c" />
 2. Selanjutnya, menampilkan isi pada setiap halaman yang dipilih
-![Screenshot 2025-05-18 111820](https://github.com/user-attachments/assets/933c27ad-4a12-4d0f-923a-7c840f1a7935)
-
+   <img width="1028" height="686" alt="image" src="https://github.com/user-attachments/assets/3787adbc-14d0-4444-a29c-3a03dd9d0786" />
 3. Mengubah halaman utama yang awalnya masuk ke halaman CodeIgniter ke halaman yang sama dengan halaman yang akan dipakai
-![Screenshot 2025-05-18 111829](https://github.com/user-attachments/assets/47bdc5c3-fdd6-4be1-9003-589d357cbc41)
-
+   <img width="1089" height="444" alt="image" src="https://github.com/user-attachments/assets/c8214d39-67bb-432b-b35b-2c8052ec6e1b" />
 4. Membuat header dalam satu file, agar lebih mudah dalam memanggilnya dan meringkas coding
-![Screenshot 2025-05-18 111839](https://github.com/user-attachments/assets/f973ae59-ae03-4e74-97e9-7c7b9c34fa51)
-
-5. Begitu juga dengan footer
-![Screenshot 2025-05-18 111849](https://github.com/user-attachments/assets/9dbcc432-35e5-42d7-90dc-d611a64bfcd3)
-
-6. Menambahkan halaman yang akan digunakan seperti about, artikel, contact, dll
-![Screenshot 2025-05-18 111918](https://github.com/user-attachments/assets/6eeab519-e9c4-4470-bcc6-d42628f5e686)
-
-7. Isi dalam file about, yang di mana di dalamnya memanggil file header & footer yang sudah dibuat sebelumnya
-![Screenshot 2025-05-18 111925](https://github.com/user-attachments/assets/3cf9c2ba-dd07-4087-8506-764a2bba73b8)
-
-8. Menambahkan _style.css_ agar tampilan lebih menarik
-![Screenshot 2025-05-18 111937](https://github.com/user-attachments/assets/634cfe42-2194-4c62-b5bb-62954ba1f0be)
-![Screenshot 2025-05-18 111952](https://github.com/user-attachments/assets/7d073768-6448-4c30-be2a-c8149c2cf502)
-
-9. Mengubah baseurl yang sebelumnya _'http://localhost:8080/'_ menjadi _'http://localhost/Lab7Web/ci4/public'_
-![Screenshot 2025-05-18 114746](https://github.com/user-attachments/assets/c301b2cb-16c0-4c31-8f12-1619ac3c78e5)
-
-10. Berikut tampilan akhir dari modul praktikum 1
-![Screenshot 2025-05-18 112210](https://github.com/user-attachments/assets/3dada635-1b74-454a-b926-2ec71155c3f5)
-
+   <img width="947" height="567" alt="image" src="https://github.com/user-attachments/assets/fc302858-c9f0-43c4-a418-787a7a9a7afa" />
+5. Membuat Footer juga
+   <img width="987" height="634" alt="image" src="https://github.com/user-attachments/assets/752b64ee-60b0-4f23-9739-e1c2f3c116d5" />
+6. Isi file About, didalamnya memanggil Header dan footer
+   <img width="611" height="265" alt="image" src="https://github.com/user-attachments/assets/4a5e39b6-be5d-4481-b7b0-7490a73106b2" />
+7. Menambahan Style.css
+   <img width="1508" height="943" alt="image" src="https://github.com/user-attachments/assets/40b6d4f8-d43b-4927-8be2-a925156fee69" />
+8. Tampilan akhir praktikum 1
+   <img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/642cd00e-b4b0-473c-a894-05e6b3b91702" />
 
 ## **Modul Praktikum 2_Framework Lanjutan (CRUD)**
 1. Buat database lab_ci4 dan tabel artikel
