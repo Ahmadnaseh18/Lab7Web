@@ -2,11 +2,7 @@
 ## **PRAKTIKUM CodeIgniter4 {Ahmad Naseh Mujamal (312310005-TI.23.C1)}**
 
 Pada praktikum CodeIgniter4 ini dibagi menjadi ke beberapa modul, berikut perubahan yang dilakukan pada setiap modul praktikum:
-
-
 ## **Modul Praktikum 1_PHP Framework (Code Igniter)**
-# Lab7Web
-## PRAKTIKUM CodeIgniter4 {Ahmad Naseh Mujamal (312310005-TI.23.C1)}
 Pada praktikum CodeIgniter4 ini dibagi menjadi ke beberapa modul, berikut perubahan yang dilakukan pada setiap modul praktikum:
 1. Pada gambar tersebut, telah ditambahkan beberapa routes yang akan digunakan
    <img width="917" height="511" alt="image" src="https://github.com/user-attachments/assets/43848193-aa9a-45fa-8fa7-92c5e2081e2c" />
